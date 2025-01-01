@@ -1,0 +1,396 @@
+Banner Ad Name,Click ID,Link/Button Clicked On,Link/Button URL,Datetime,State,Gender,Income Level
+Banner 1 - Short,7101,Sign Up,https://example.com/learn,19/07/2024 05:27,Florida,Undisclosed,Middle
+Banner 1 - Short,7164,Sign Up,https://example.com/learn,17/07/2024 08:35,New York,Undisclosed,Middle
+Banner 1 - Short,5223,Sign Up,https://example.com/signup,23/07/2024 19:00,Illinois,Female,Middle
+Banner 2 - Long,4270,Unsubscribe,https://example.com/hide_banner_add,26/07/2024 11:22,Illinois,Undisclosed,Low
+Banner 1 - Short,2536,Unsubscribe,https://example.com/signup,11/07/2024 20:52,California,Female,Middle
+Banner 1 - Short,6629,Unsubscribe,https://example.com/hide_banner_add,18/07/2024 05:00,New York,Male,Middle
+Banner 1 - Short,7661,Unsubscribe,https://example.com/learn,23/07/2024 03:16,Illinois,Female,High
+Banner 1 - Short,1724,Sign Up,https://example.com/learn,08/07/2024 04:45,New York,Female,High
+Banner 2 - Long,3032,Unsubscribe,https://example.com/hide_banner_add,20/07/2024 04:30,Florida,Female,Middle
+Banner 1 - Short,4528,Sign Up,https://example.com/signup,25/07/2024 22:39,Florida,Male,Low
+Banner 1 - Short,5120,Unsubscribe,https://example.com/signup,18/07/2024 15:05,California,Female,Low
+Banner 1 - Short,7050,Learn More,https://example.com/learn,27/07/2024 22:08,Texas,Undisclosed,Low
+Banner 1 - Short,4785,Learn More,https://example.com/learn,13/07/2024 12:14,Illinois,Undisclosed,Low
+Banner 1 - Short,3108,Unsubscribe,https://example.com/hide_banner_add,16/07/2024 16:01,Illinois,Male,Middle
+Banner 1 - Short,9233,Sign Up,https://example.com/learn,10/07/2024 16:07,Texas,Undisclosed,High
+Banner 1 - Short,4574,Learn More,https://example.com/hide_banner_add,19/07/2024 09:08,Florida,Male,Middle
+Banner 1 - Short,2491,Sign Up,https://example.com/learn,11/07/2024 00:03,Illinois,Female,Low
+Banner 1 - Short,9248,Sign Up,https://example.com/signup,20/07/2024 04:24,California,Male,Middle
+Banner 1 - Short,4967,Learn More,https://example.com/hide_banner_add,15/07/2024 00:51,Florida,Undisclosed,High
+Banner 1 - Short,3041,Unsubscribe,https://example.com/hide_banner_add,08/07/2024 16:47,Florida,Undisclosed,Low
+Banner 1 - Short,1850,Unsubscribe,https://example.com/hide_banner_add,02/07/2024 20:19,Illinois,Female,High
+Banner 1 - Short,6965,Learn More,https://example.com/hide_banner_add,22/07/2024 08:48,Texas,Undisclosed,Middle
+Banner 1 - Short,5308,Unsubscribe,https://example.com/hide_banner_add,24/07/2024 23:58,Illinois,Male,Low
+Banner 2 - Long,6723,Sign Up,https://example.com/hide_banner_add,31/07/2024 17:04,Florida,Undisclosed,Middle
+Banner 2 - Long,2944,Learn More,https://example.com/learn,21/07/2024 17:04,Texas,Male,Middle
+Banner 1 - Short,7936,Unsubscribe,https://example.com/signup,01/07/2024 18:30,Florida,Undisclosed,High
+Banner 1 - Short,1841,Sign Up,https://example.com/hide_banner_add,05/07/2024 03:26,Florida,Female,High
+Banner 2 - Long,9586,Unsubscribe,https://example.com/signup,04/07/2024 23:26,New York,Male,High
+Banner 1 - Short,7126,Unsubscribe,https://example.com/learn,03/07/2024 14:58,Illinois,Undisclosed,Low
+Banner 1 - Short,5986,Learn More,https://example.com/learn,23/07/2024 03:01,Illinois,Male,Low
+Banner 1 - Short,2201,Unsubscribe,https://example.com/signup,02/07/2024 15:57,Texas,Female,Low
+Banner 1 - Short,3809,Learn More,https://example.com/hide_banner_add,06/07/2024 01:49,Illinois,Undisclosed,Middle
+Banner 1 - Short,7033,Unsubscribe,https://example.com/learn,07/07/2024 17:53,Texas,Male,Low
+Banner 1 - Short,7279,Learn More,https://example.com/signup,28/07/2024 14:01,New York,Undisclosed,Low
+Banner 1 - Short,8097,Learn More,https://example.com/signup,18/07/2024 00:51,Texas,Undisclosed,High
+Banner 1 - Short,9678,Sign Up,https://example.com/signup,15/07/2024 20:05,Illinois,Undisclosed,Low
+Banner 1 - Short,9513,Sign Up,https://example.com/hide_banner_add,17/07/2024 00:20,Texas,Female,Low
+Banner 1 - Short,3664,Sign Up,https://example.com/signup,07/07/2024 12:39,California,Male,Middle
+Banner 1 - Short,9261,Sign Up,https://example.com/signup,30/07/2024 22:45,Illinois,Female,High
+Banner 1 - Short,8365,Unsubscribe,https://example.com/learn,13/07/2024 19:41,Illinois,Undisclosed,Low
+Banner 1 - Short,6997,Unsubscribe,https://example.com/hide_banner_add,11/07/2024 00:13,Texas,Female,Middle
+Banner 1 - Short,4541,Sign Up,https://example.com/signup,21/07/2024 16:33,Texas,Female,Middle
+Banner 1 - Short,4926,Learn More,https://example.com/signup,28/07/2024 04:52,Texas,Undisclosed,Low
+Banner 1 - Short,1321,Sign Up,https://example.com/learn,28/07/2024 14:21,Florida,Male,High
+Banner 1 - Short,5880,Learn More,https://example.com/hide_banner_add,25/07/2024 14:05,Florida,Undisclosed,High
+Banner 1 - Short,4591,Unsubscribe,https://example.com/hide_banner_add,11/07/2024 04:28,Texas,Undisclosed,Low
+Banner 1 - Short,1344,Sign Up,https://example.com/learn,28/07/2024 04:44,Florida,Undisclosed,Low
+Banner 1 - Short,1314,Learn More,https://example.com/hide_banner_add,01/07/2024 21:00,Illinois,Male,Low
+Banner 2 - Long,7650,Sign Up,https://example.com/signup,10/07/2024 08:14,Florida,Female,Middle
+Banner 1 - Short,5679,Unsubscribe,https://example.com/signup,10/07/2024 13:40,Florida,Undisclosed,High
+Banner 1 - Short,7491,Unsubscribe,https://example.com/hide_banner_add,03/07/2024 11:59,Florida,Undisclosed,Middle
+Banner 2 - Long,9971,Learn More,https://example.com/signup,11/07/2024 22:44,Texas,Undisclosed,Low
+Banner 1 - Short,8550,Unsubscribe,https://example.com/learn,18/07/2024 23:28,Illinois,Female,Low
+Banner 1 - Short,9500,Unsubscribe,https://example.com/hide_banner_add,20/07/2024 15:10,California,Undisclosed,Low
+Banner 1 - Short,6297,Sign Up,https://example.com/hide_banner_add,25/07/2024 10:03,Florida,Female,Middle
+Banner 1 - Short,4226,Learn More,https://example.com/signup,15/07/2024 22:56,Florida,Male,Middle
+Banner 1 - Short,5092,Learn More,https://example.com/signup,20/07/2024 08:50,New York,Female,Low
+Banner 1 - Short,5272,Unsubscribe,https://example.com/learn,26/07/2024 23:00,New York,Male,High
+Banner 1 - Short,4430,Learn More,https://example.com/hide_banner_add,03/07/2024 09:28,New York,Female,High
+Banner 1 - Short,9480,Learn More,https://example.com/learn,20/07/2024 13:21,Florida,Female,Low
+Banner 1 - Short,7388,Sign Up,https://example.com/signup,12/07/2024 08:46,California,Undisclosed,Middle
+Banner 1 - Short,5559,Sign Up,https://example.com/signup,28/07/2024 11:44,Texas,Female,High
+Banner 1 - Short,3155,Learn More,https://example.com/learn,29/07/2024 09:34,Florida,Undisclosed,High
+Banner 1 - Short,8829,Learn More,https://example.com/learn,17/07/2024 06:50,Texas,Undisclosed,Low
+Banner 1 - Short,1435,Sign Up,https://example.com/hide_banner_add,09/07/2024 18:00,New York,Female,Middle
+Banner 1 - Short,5066,Sign Up,https://example.com/learn,26/07/2024 09:46,Texas,Female,High
+Banner 1 - Short,9360,Unsubscribe,https://example.com/hide_banner_add,29/07/2024 02:15,New York,Undisclosed,Middle
+Banner 1 - Short,9109,Sign Up,https://example.com/hide_banner_add,03/07/2024 00:46,Texas,Male,High
+Banner 1 - Short,2550,Learn More,https://example.com/hide_banner_add,07/07/2024 18:17,Florida,Male,Middle
+Banner 1 - Short,8866,Unsubscribe,https://example.com/signup,30/07/2024 12:16,California,Female,Low
+Banner 1 - Short,3852,Learn More,https://example.com/learn,23/07/2024 16:05,California,Undisclosed,Middle
+Banner 1 - Short,8180,Learn More,https://example.com/learn,11/07/2024 09:45,Illinois,Male,High
+Banner 1 - Short,4001,Unsubscribe,https://example.com/learn,12/07/2024 18:14,Illinois,Undisclosed,Middle
+Banner 1 - Short,4362,Learn More,https://example.com/signup,18/07/2024 13:47,Texas,Undisclosed,Low
+Banner 1 - Short,6948,Learn More,https://example.com/learn,27/07/2024 02:16,California,Male,Middle
+Banner 1 - Short,2678,Learn More,https://example.com/signup,07/07/2024 15:26,New York,Male,Low
+Banner 1 - Short,4924,Sign Up,https://example.com/hide_banner_add,02/07/2024 16:28,Illinois,Undisclosed,Low
+Banner 1 - Short,9164,Unsubscribe,https://example.com/hide_banner_add,24/07/2024 00:34,California,Undisclosed,Low
+Banner 1 - Short,8413,Unsubscribe,https://example.com/signup,08/07/2024 15:11,New York,Female,High
+Banner 2 - Long,3598,Unsubscribe,https://example.com/signup,28/07/2024 10:19,Illinois,Male,Low
+Banner 1 - Short,3715,Unsubscribe,https://example.com/hide_banner_add,18/07/2024 11:32,Florida,Undisclosed,Low
+Banner 1 - Short,5823,Learn More,https://example.com/hide_banner_add,21/07/2024 10:22,Florida,Undisclosed,High
+Banner 1 - Short,4800,Learn More,https://example.com/signup,23/07/2024 17:14,New York,Female,Middle
+Banner 2 - Long,6011,Learn More,https://example.com/learn,20/07/2024 01:21,California,Male,Middle
+Banner 1 - Short,8379,Unsubscribe,https://example.com/learn,01/07/2024 18:02,Illinois,Undisclosed,High
+Banner 1 - Short,9360,Learn More,https://example.com/signup,03/07/2024 14:23,California,Female,Low
+Banner 1 - Short,4170,Sign Up,https://example.com/hide_banner_add,17/07/2024 01:17,Florida,Male,Low
+Banner 2 - Long,8563,Sign Up,https://example.com/signup,19/07/2024 17:27,New York,Male,Low
+Banner 1 - Short,7977,Sign Up,https://example.com/hide_banner_add,28/07/2024 00:21,California,Female,Low
+Banner 1 - Short,4280,Learn More,https://example.com/learn,06/07/2024 14:46,New York,Female,Low
+Banner 1 - Short,3455,Learn More,https://example.com/signup,29/07/2024 05:11,Texas,Undisclosed,Middle
+Banner 1 - Short,3801,Learn More,https://example.com/signup,19/07/2024 17:48,Texas,Undisclosed,High
+Banner 1 - Short,8801,Sign Up,https://example.com/hide_banner_add,26/07/2024 10:43,California,Female,High
+Banner 1 - Short,8494,Learn More,https://example.com/signup,11/07/2024 10:35,Illinois,Female,Low
+Banner 1 - Short,6272,Learn More,https://example.com/learn,16/07/2024 06:47,Texas,Undisclosed,Middle
+Banner 1 - Short,4209,Learn More,https://example.com/learn,25/07/2024 21:04,California,Female,High
+Banner 1 - Short,9349,Sign Up,https://example.com/learn,15/07/2024 20:43,New York,Female,Low
+Banner 1 - Short,8048,Unsubscribe,https://example.com/signup,22/07/2024 09:21,Florida,Male,High
+Banner 1 - Short,4098,Learn More,https://example.com/hide_banner_add,20/07/2024 05:09,Illinois,Female,Low
+Banner 1 - Short,7224,Sign Up,https://example.com/signup,01/07/2024 07:03,California,Female,Low
+Banner 1 - Short,8615,Learn More,https://example.com/hide_banner_add,19/07/2024 18:34,Illinois,Female,High
+Banner 1 - Short,7913,Sign Up,https://example.com/signup,21/07/2024 16:41,California,Undisclosed,High
+Banner 1 - Short,6923,Unsubscribe,https://example.com/hide_banner_add,18/07/2024 08:53,Texas,Male,Low
+Banner 1 - Short,3298,Unsubscribe,https://example.com/hide_banner_add,13/07/2024 19:27,California,Undisclosed,Low
+Banner 1 - Short,9996,Unsubscribe,https://example.com/signup,23/07/2024 14:43,Texas,Female,Middle
+Banner 1 - Short,7933,Sign Up,https://example.com/signup,11/07/2024 12:23,New York,Female,Middle
+Banner 1 - Short,3639,Unsubscribe,https://example.com/signup,22/07/2024 05:18,Texas,Undisclosed,Low
+Banner 2 - Long,8005,Unsubscribe,https://example.com/signup,01/07/2024 11:54,California,Undisclosed,Low
+Banner 1 - Short,6470,Unsubscribe,https://example.com/signup,12/07/2024 16:51,Illinois,Female,Middle
+Banner 1 - Short,9316,Learn More,https://example.com/learn,06/07/2024 05:06,Illinois,Undisclosed,High
+Banner 1 - Short,4854,Learn More,https://example.com/learn,04/07/2024 09:06,New York,Male,Middle
+Banner 1 - Short,5362,Unsubscribe,https://example.com/signup,10/07/2024 11:26,Florida,Male,Middle
+Banner 1 - Short,3787,Learn More,https://example.com/signup,16/07/2024 01:27,Illinois,Male,High
+Banner 1 - Short,7647,Sign Up,https://example.com/hide_banner_add,15/07/2024 20:43,California,Undisclosed,Middle
+Banner 1 - Short,5941,Learn More,https://example.com/learn,28/07/2024 22:24,Florida,Undisclosed,Middle
+Banner 1 - Short,8864,Unsubscribe,https://example.com/learn,27/07/2024 03:09,New York,Undisclosed,Low
+Banner 1 - Short,3730,Sign Up,https://example.com/signup,21/07/2024 13:35,Florida,Undisclosed,Low
+Banner 2 - Long,4956,Unsubscribe,https://example.com/learn,02/07/2024 01:09,Illinois,Male,Low
+Banner 1 - Short,6603,Learn More,https://example.com/signup,31/07/2024 13:09,New York,Male,Middle
+Banner 1 - Short,9306,Learn More,https://example.com/signup,11/07/2024 09:52,Florida,Undisclosed,Low
+Banner 1 - Short,3357,Unsubscribe,https://example.com/signup,22/07/2024 11:56,Illinois,Undisclosed,Middle
+Banner 1 - Short,9941,Unsubscribe,https://example.com/learn,13/07/2024 06:23,Illinois,Female,High
+Banner 1 - Short,1609,Unsubscribe,https://example.com/signup,27/07/2024 22:54,Florida,Undisclosed,Middle
+Banner 1 - Short,9919,Sign Up,https://example.com/learn,22/07/2024 17:15,California,Undisclosed,High
+Banner 1 - Short,5071,Unsubscribe,https://example.com/signup,12/07/2024 22:53,California,Male,High
+Banner 1 - Short,1570,Learn More,https://example.com/hide_banner_add,30/07/2024 22:50,New York,Undisclosed,Middle
+Banner 1 - Short,4387,Unsubscribe,https://example.com/hide_banner_add,05/07/2024 11:20,Texas,Male,Middle
+Banner 1 - Short,1246,Unsubscribe,https://example.com/signup,01/07/2024 03:26,Texas,Male,Low
+Banner 2 - Long,9747,Unsubscribe,https://example.com/learn,18/07/2024 05:22,New York,Female,High
+Banner 1 - Short,5660,Unsubscribe,https://example.com/learn,26/07/2024 11:12,New York,Female,Low
+Banner 1 - Short,3683,Sign Up,https://example.com/learn,01/07/2024 17:27,Illinois,Undisclosed,High
+Banner 1 - Short,9196,Unsubscribe,https://example.com/learn,22/07/2024 01:22,California,Undisclosed,High
+Banner 1 - Short,8768,Learn More,https://example.com/learn,20/07/2024 07:55,Illinois,Female,Middle
+Banner 2 - Long,6004,Learn More,https://example.com/learn,21/07/2024 05:16,Florida,Male,High
+Banner 2 - Long,4169,Learn More,https://example.com/hide_banner_add,09/07/2024 16:32,California,Female,Middle
+Banner 1 - Short,9932,Learn More,https://example.com/hide_banner_add,12/07/2024 06:19,New York,Female,Middle
+Banner 1 - Short,1790,Unsubscribe,https://example.com/signup,05/07/2024 13:29,Illinois,Female,Middle
+Banner 1 - Short,8149,Unsubscribe,https://example.com/signup,22/07/2024 10:27,California,Female,Middle
+Banner 1 - Short,2533,Learn More,https://example.com/learn,05/07/2024 10:00,Florida,Female,High
+Banner 1 - Short,8914,Learn More,https://example.com/learn,06/07/2024 14:47,Texas,Male,Low
+Banner 1 - Short,9100,Learn More,https://example.com/learn,05/07/2024 10:39,Texas,Male,High
+Banner 1 - Short,8858,Sign Up,https://example.com/signup,23/07/2024 03:39,Florida,Undisclosed,High
+Banner 2 - Long,2223,Learn More,https://example.com/hide_banner_add,05/07/2024 13:31,Illinois,Undisclosed,Low
+Banner 1 - Short,1642,Sign Up,https://example.com/hide_banner_add,29/07/2024 00:36,Florida,Undisclosed,Middle
+Banner 1 - Short,7203,Sign Up,https://example.com/hide_banner_add,09/07/2024 00:03,Florida,Undisclosed,Low
+Banner 1 - Short,8333,Unsubscribe,https://example.com/learn,29/07/2024 09:21,Illinois,Female,Low
+Banner 1 - Short,9416,Sign Up,https://example.com/hide_banner_add,09/07/2024 10:17,Texas,Male,Low
+Banner 2 - Long,2850,Learn More,https://example.com/signup,03/07/2024 16:17,Illinois,Male,Low
+Banner 1 - Short,3503,Learn More,https://example.com/signup,06/07/2024 09:45,Illinois,Undisclosed,Low
+Banner 1 - Short,9824,Learn More,https://example.com/signup,09/07/2024 05:30,Texas,Undisclosed,High
+Banner 1 - Short,8027,Sign Up,https://example.com/learn,23/07/2024 17:18,California,Male,High
+Banner 1 - Short,1467,Sign Up,https://example.com/hide_banner_add,02/07/2024 01:29,Florida,Male,Low
+Banner 1 - Short,6884,Learn More,https://example.com/hide_banner_add,31/07/2024 09:49,Texas,Female,High
+Banner 1 - Short,5661,Unsubscribe,https://example.com/signup,27/07/2024 05:21,New York,Male,High
+Banner 1 - Short,5176,Unsubscribe,https://example.com/learn,24/07/2024 04:47,California,Undisclosed,Low
+Banner 2 - Long,9412,Learn More,https://example.com/hide_banner_add,04/07/2024 07:14,Illinois,Undisclosed,High
+Banner 1 - Short,5631,Learn More,https://example.com/hide_banner_add,20/07/2024 11:59,New York,Female,Middle
+Banner 1 - Short,2151,Sign Up,https://example.com/signup,05/07/2024 19:33,California,Male,Middle
+Banner 1 - Short,5219,Unsubscribe,https://example.com/hide_banner_add,21/07/2024 00:51,Florida,Male,Middle
+Banner 1 - Short,8220,Unsubscribe,https://example.com/signup,15/07/2024 04:35,New York,Undisclosed,Middle
+Banner 1 - Short,6413,Sign Up,https://example.com/signup,02/07/2024 21:02,Texas,Male,Low
+Banner 1 - Short,2536,Unsubscribe,https://example.com/learn,11/07/2024 19:49,Texas,Female,Low
+Banner 2 - Long,9632,Sign Up,https://example.com/learn,05/07/2024 19:11,New York,Undisclosed,Middle
+Banner 1 - Short,2696,Unsubscribe,https://example.com/signup,16/07/2024 22:25,New York,Male,Low
+Banner 1 - Short,5524,Unsubscribe,https://example.com/learn,17/07/2024 21:04,Illinois,Female,Middle
+Banner 1 - Short,3505,Learn More,https://example.com/learn,08/07/2024 01:33,Texas,Undisclosed,High
+Banner 1 - Short,7207,Learn More,https://example.com/signup,24/07/2024 16:37,New York,Male,Low
+Banner 2 - Long,8299,Sign Up,https://example.com/signup,17/07/2024 08:43,Florida,Female,Middle
+Banner 1 - Short,3905,Learn More,https://example.com/hide_banner_add,04/07/2024 11:40,Florida,Undisclosed,Low
+Banner 1 - Short,6223,Sign Up,https://example.com/learn,25/07/2024 18:52,California,Male,Low
+Banner 1 - Short,4891,Sign Up,https://example.com/hide_banner_add,14/07/2024 21:51,Texas,Male,Middle
+Banner 1 - Short,2065,Learn More,https://example.com/learn,05/07/2024 22:58,California,Male,Middle
+Banner 1 - Short,9301,Unsubscribe,https://example.com/hide_banner_add,31/07/2024 11:08,California,Undisclosed,Middle
+Banner 2 - Long,6028,Learn More,https://example.com/hide_banner_add,23/07/2024 04:37,California,Female,Middle
+Banner 1 - Short,2545,Sign Up,https://example.com/learn,23/07/2024 06:32,Texas,Undisclosed,Low
+Banner 1 - Short,1695,Sign Up,https://example.com/signup,12/07/2024 07:33,Texas,Male,Middle
+Banner 1 - Short,2730,Sign Up,https://example.com/learn,20/07/2024 20:32,New York,Undisclosed,High
+Banner 2 - Long,1850,Learn More,https://example.com/signup,11/07/2024 04:37,Texas,Undisclosed,High
+Banner 1 - Short,9975,Unsubscribe,https://example.com/signup,17/07/2024 23:21,Illinois,Female,Low
+Banner 1 - Short,7315,Sign Up,https://example.com/learn,13/07/2024 02:27,California,Male,High
+Banner 1 - Short,6890,Learn More,https://example.com/signup,03/07/2024 10:19,Florida,Female,High
+Banner 2 - Long,1451,Learn More,https://example.com/hide_banner_add,02/07/2024 23:34,Florida,Female,Low
+Banner 1 - Short,2076,Unsubscribe,https://example.com/learn,22/07/2024 18:40,Florida,Female,Middle
+Banner 1 - Short,1541,Unsubscribe,https://example.com/hide_banner_add,30/07/2024 03:45,Texas,Undisclosed,High
+Banner 2 - Long,7801,Unsubscribe,https://example.com/learn,20/07/2024 21:25,Illinois,Male,Middle
+Banner 1 - Short,3614,Learn More,https://example.com/signup,18/07/2024 22:06,New York,Undisclosed,Low
+Banner 1 - Short,3106,Unsubscribe,https://example.com/learn,10/07/2024 22:43,Florida,Female,Middle
+Banner 1 - Short,7356,Sign Up,https://example.com/signup,22/07/2024 01:02,California,Male,High
+Banner 1 - Short,8856,Unsubscribe,https://example.com/learn,05/07/2024 02:37,California,Female,High
+Banner 2 - Long,4323,Learn More,https://example.com/hide_banner_add,20/07/2024 15:39,Texas,Female,Low
+Banner 2 - Long,9385,Sign Up,https://example.com/hide_banner_add,07/07/2024 02:26,New York,Female,Middle
+Banner 1 - Short,7032,Unsubscribe,https://example.com/hide_banner_add,02/07/2024 12:05,Texas,Female,High
+Banner 1 - Short,8556,Learn More,https://example.com/hide_banner_add,04/07/2024 23:39,Illinois,Female,Low
+Banner 1 - Short,1945,Learn More,https://example.com/learn,29/07/2024 14:38,Texas,Female,High
+Banner 1 - Short,1592,Sign Up,https://example.com/signup,11/07/2024 18:30,Texas,Undisclosed,Middle
+Banner 1 - Short,4498,Learn More,https://example.com/learn,25/07/2024 20:26,Florida,Female,Middle
+Banner 1 - Short,5476,Learn More,https://example.com/hide_banner_add,02/07/2024 07:46,Texas,Male,Low
+Banner 2 - Long,3545,Sign Up,https://example.com/signup,23/07/2024 01:31,Florida,Female,Low
+Banner 2 - Long,7301,Sign Up,https://example.com/hide_banner_add,04/07/2024 01:12,Florida,Male,Middle
+Banner 1 - Short,3162,Unsubscribe,https://example.com/learn,05/07/2024 01:17,New York,Undisclosed,Low
+Banner 1 - Short,6239,Unsubscribe,https://example.com/hide_banner_add,27/07/2024 04:26,Florida,Male,Low
+Banner 1 - Short,9597,Learn More,https://example.com/hide_banner_add,31/07/2024 20:59,Texas,Female,Middle
+Banner 1 - Short,3802,Sign Up,https://example.com/hide_banner_add,01/07/2024 16:22,Illinois,Undisclosed,Middle
+Banner 1 - Short,6061,Sign Up,https://example.com/hide_banner_add,11/07/2024 12:45,Illinois,Male,Low
+Banner 2 - Long,2559,Sign Up,https://example.com/hide_banner_add,13/07/2024 07:08,California,Female,Middle
+Banner 1 - Short,6678,Unsubscribe,https://example.com/signup,12/07/2024 11:06,New York,Undisclosed,Middle
+Banner 1 - Short,8527,Unsubscribe,https://example.com/learn,27/07/2024 16:44,California,Male,Middle
+Banner 1 - Short,7190,Unsubscribe,https://example.com/learn,10/07/2024 01:14,Texas,Female,High
+Banner 1 - Short,9204,Sign Up,https://example.com/hide_banner_add,02/07/2024 03:22,Texas,Undisclosed,High
+Banner 1 - Short,9779,Sign Up,https://example.com/hide_banner_add,03/07/2024 13:38,Texas,Male,Middle
+Banner 1 - Short,5720,Unsubscribe,https://example.com/hide_banner_add,25/07/2024 01:05,Illinois,Undisclosed,Middle
+Banner 1 - Short,5354,Sign Up,https://example.com/hide_banner_add,02/07/2024 18:49,New York,Female,Low
+Banner 1 - Short,9979,Unsubscribe,https://example.com/hide_banner_add,19/07/2024 18:11,Illinois,Undisclosed,Middle
+Banner 1 - Short,2073,Sign Up,https://example.com/signup,07/07/2024 07:33,Florida,Undisclosed,Low
+Banner 1 - Short,7533,Unsubscribe,https://example.com/learn,24/07/2024 20:45,Florida,Female,Low
+Banner 2 - Long,8960,Unsubscribe,https://example.com/learn,20/07/2024 04:29,Florida,Undisclosed,High
+Banner 1 - Short,9072,Sign Up,https://example.com/learn,21/07/2024 14:23,Illinois,Male,Middle
+Banner 1 - Short,3939,Unsubscribe,https://example.com/learn,30/07/2024 06:34,Florida,Female,Low
+Banner 1 - Short,4576,Unsubscribe,https://example.com/signup,05/07/2024 04:26,New York,Undisclosed,Low
+Banner 1 - Short,6817,Learn More,https://example.com/learn,01/07/2024 08:39,Texas,Undisclosed,High
+Banner 1 - Short,2081,Sign Up,https://example.com/signup,11/07/2024 10:27,Illinois,Undisclosed,Low
+Banner 1 - Short,7719,Learn More,https://example.com/learn,01/07/2024 15:49,Texas,Male,High
+Banner 2 - Long,1273,Unsubscribe,https://example.com/signup,18/07/2024 13:05,Florida,Female,High
+Banner 1 - Short,4376,Sign Up,https://example.com/signup,04/07/2024 14:15,New York,Female,High
+Banner 1 - Short,8460,Unsubscribe,https://example.com/learn,08/07/2024 04:21,Florida,Male,High
+Banner 1 - Short,2801,Learn More,https://example.com/learn,13/07/2024 06:34,Illinois,Undisclosed,Low
+Banner 1 - Short,2639,Learn More,https://example.com/signup,19/07/2024 07:58,Florida,Undisclosed,Middle
+Banner 1 - Short,8893,Unsubscribe,https://example.com/learn,26/07/2024 05:23,New York,Female,Low
+Banner 1 - Short,8944,Learn More,https://example.com/signup,02/07/2024 10:17,New York,Undisclosed,Low
+Banner 1 - Short,6262,Sign Up,https://example.com/hide_banner_add,29/07/2024 02:10,Illinois,Undisclosed,Low
+Banner 1 - Short,1908,Unsubscribe,https://example.com/signup,14/07/2024 00:16,California,Male,Middle
+Banner 1 - Short,2078,Unsubscribe,https://example.com/hide_banner_add,25/07/2024 08:00,Florida,Male,High
+Banner 1 - Short,6904,Unsubscribe,https://example.com/learn,19/07/2024 01:42,Florida,Female,Low
+Banner 1 - Short,6753,Unsubscribe,https://example.com/signup,02/07/2024 21:39,Illinois,Male,Low
+Banner 1 - Short,7846,Sign Up,https://example.com/learn,19/07/2024 10:51,Florida,Undisclosed,Low
+Banner 2 - Long,8679,Unsubscribe,https://example.com/signup,19/07/2024 13:34,Illinois,Female,Low
+Banner 1 - Short,1460,Sign Up,https://example.com/hide_banner_add,25/07/2024 13:59,Texas,Female,Low
+Banner 1 - Short,8110,Sign Up,https://example.com/learn,26/07/2024 22:14,Illinois,Undisclosed,High
+Banner 1 - Short,6786,Learn More,https://example.com/hide_banner_add,14/07/2024 13:54,Florida,Undisclosed,High
+Banner 1 - Short,2568,Unsubscribe,https://example.com/hide_banner_add,02/07/2024 16:33,Texas,Undisclosed,Low
+Banner 1 - Short,8997,Unsubscribe,https://example.com/hide_banner_add,24/07/2024 13:23,Texas,Undisclosed,High
+Banner 1 - Short,8200,Learn More,https://example.com/learn,28/07/2024 18:45,Illinois,Male,High
+Banner 1 - Short,6042,Sign Up,https://example.com/learn,24/07/2024 08:34,New York,Male,Middle
+Banner 2 - Long,6558,Sign Up,https://example.com/learn,20/07/2024 14:48,California,Undisclosed,Low
+Banner 1 - Short,9668,Learn More,https://example.com/signup,29/07/2024 04:34,California,Male,High
+Banner 1 - Short,8913,Learn More,https://example.com/signup,24/07/2024 07:43,California,Female,Low
+Banner 1 - Short,7995,Unsubscribe,https://example.com/signup,24/07/2024 14:59,New York,Female,Middle
+Banner 1 - Short,7106,Unsubscribe,https://example.com/hide_banner_add,02/07/2024 12:34,New York,Female,Low
+Banner 1 - Short,9820,Unsubscribe,https://example.com/learn,20/07/2024 01:09,Texas,Undisclosed,High
+Banner 1 - Short,4837,Learn More,https://example.com/hide_banner_add,11/07/2024 20:53,California,Undisclosed,Low
+Banner 1 - Short,5080,Sign Up,https://example.com/signup,06/07/2024 00:50,New York,Male,Middle
+Banner 1 - Short,9665,Unsubscribe,https://example.com/signup,02/07/2024 20:36,California,Male,Middle
+Banner 2 - Long,6712,Learn More,https://example.com/learn,10/07/2024 14:07,Florida,Male,Middle
+Banner 1 - Short,1245,Sign Up,https://example.com/hide_banner_add,20/07/2024 02:01,California,Female,Middle
+Banner 1 - Short,7956,Sign Up,https://example.com/learn,11/07/2024 04:43,Florida,Male,High
+Banner 2 - Long,3945,Learn More,https://example.com/learn,15/07/2024 07:30,Texas,Undisclosed,Middle
+Banner 1 - Short,5036,Learn More,https://example.com/signup,18/07/2024 15:35,California,Male,High
+Banner 1 - Short,6256,Sign Up,https://example.com/signup,01/07/2024 15:53,Florida,Female,Low
+Banner 1 - Short,8719,Learn More,https://example.com/signup,08/07/2024 03:48,Florida,Undisclosed,Low
+Banner 1 - Short,9220,Sign Up,https://example.com/signup,29/07/2024 16:11,Illinois,Female,Low
+Banner 1 - Short,5768,Learn More,https://example.com/hide_banner_add,25/07/2024 05:37,Texas,Undisclosed,Middle
+Banner 1 - Short,5540,Learn More,https://example.com/learn,24/07/2024 07:57,Texas,Female,High
+Banner 1 - Short,2436,Sign Up,https://example.com/hide_banner_add,04/07/2024 04:59,Texas,Undisclosed,Middle
+Banner 2 - Long,5571,Sign Up,https://example.com/learn,10/07/2024 16:11,Texas,Female,Middle
+Banner 1 - Short,3060,Sign Up,https://example.com/signup,14/07/2024 08:49,California,Male,High
+Banner 1 - Short,7631,Learn More,https://example.com/hide_banner_add,12/07/2024 22:34,California,Female,Low
+Banner 1 - Short,3884,Learn More,https://example.com/learn,05/07/2024 00:39,Florida,Male,High
+Banner 1 - Short,9250,Sign Up,https://example.com/signup,19/07/2024 00:08,New York,Undisclosed,Middle
+Banner 1 - Short,8580,Learn More,https://example.com/learn,02/07/2024 15:43,Illinois,Male,High
+Banner 1 - Short,1665,Learn More,https://example.com/learn,28/07/2024 14:41,Texas,Undisclosed,Middle
+Banner 1 - Short,7205,Sign Up,https://example.com/hide_banner_add,09/07/2024 09:15,Texas,Undisclosed,Middle
+Banner 1 - Short,6402,Learn More,https://example.com/learn,29/07/2024 08:20,California,Undisclosed,High
+Banner 1 - Short,5274,Sign Up,https://example.com/learn,15/07/2024 03:30,Texas,Male,Low
+Banner 1 - Short,4976,Unsubscribe,https://example.com/learn,04/07/2024 10:18,Florida,Female,Middle
+Banner 1 - Short,8536,Sign Up,https://example.com/learn,11/07/2024 05:37,Florida,Female,High
+Banner 1 - Short,4001,Unsubscribe,https://example.com/hide_banner_add,18/07/2024 15:52,Illinois,Male,Low
+Banner 1 - Short,9206,Sign Up,https://example.com/signup,02/07/2024 23:55,Texas,Female,Middle
+Banner 1 - Short,9875,Unsubscribe,https://example.com/learn,24/07/2024 05:16,Florida,Female,High
+Banner 1 - Short,2223,Learn More,https://example.com/hide_banner_add,29/07/2024 02:35,Texas,Undisclosed,Low
+Banner 1 - Short,9842,Unsubscribe,https://example.com/signup,16/07/2024 05:44,Florida,Male,Low
+Banner 1 - Short,4167,Sign Up,https://example.com/signup,07/07/2024 00:00,Texas,Male,High
+Banner 1 - Short,7864,Unsubscribe,https://example.com/signup,21/07/2024 14:09,California,Undisclosed,Middle
+Banner 1 - Short,8912,Sign Up,https://example.com/learn,10/07/2024 09:44,Illinois,Undisclosed,Low
+Banner 1 - Short,3571,Unsubscribe,https://example.com/hide_banner_add,11/07/2024 10:30,New York,Male,High
+Banner 2 - Long,4380,Unsubscribe,https://example.com/hide_banner_add,07/07/2024 10:01,California,Undisclosed,Low
+Banner 1 - Short,9827,Sign Up,https://example.com/signup,19/07/2024 11:46,Texas,Male,Low
+Banner 2 - Long,2115,Sign Up,https://example.com/learn,31/07/2024 22:49,New York,Undisclosed,Low
+Banner 1 - Short,4504,Unsubscribe,https://example.com/learn,15/07/2024 14:26,New York,Female,Low
+Banner 1 - Short,6546,Learn More,https://example.com/learn,07/07/2024 16:57,New York,Female,Middle
+Banner 1 - Short,6745,Unsubscribe,https://example.com/signup,18/07/2024 21:20,New York,Male,Middle
+Banner 1 - Short,2969,Sign Up,https://example.com/signup,17/07/2024 15:51,Texas,Male,Middle
+Banner 1 - Short,3917,Sign Up,https://example.com/signup,22/07/2024 23:46,Illinois,Undisclosed,Low
+Banner 1 - Short,9845,Learn More,https://example.com/learn,04/07/2024 04:17,New York,Female,High
+Banner 1 - Short,3328,Learn More,https://example.com/signup,21/07/2024 14:13,New York,Male,High
+Banner 2 - Long,1065,Unsubscribe,https://example.com/hide_banner_add,31/07/2024 09:46,New York,Undisclosed,High
+Banner 1 - Short,1883,Unsubscribe,https://example.com/learn,07/07/2024 04:13,California,Undisclosed,Low
+Banner 1 - Short,5376,Unsubscribe,https://example.com/hide_banner_add,17/07/2024 23:08,Florida,Female,Middle
+Banner 1 - Short,8936,Sign Up,https://example.com/signup,07/07/2024 13:36,New York,Male,Middle
+Banner 1 - Short,1804,Unsubscribe,https://example.com/hide_banner_add,23/07/2024 13:21,New York,Undisclosed,High
+Banner 1 - Short,4377,Learn More,https://example.com/signup,01/07/2024 13:23,Texas,Undisclosed,Middle
+Banner 2 - Long,7662,Unsubscribe,https://example.com/learn,17/07/2024 05:10,Illinois,Female,Low
+Banner 1 - Short,2280,Unsubscribe,https://example.com/hide_banner_add,09/07/2024 16:28,Illinois,Female,Low
+Banner 2 - Long,1231,Unsubscribe,https://example.com/signup,01/07/2024 19:17,California,Male,High
+Banner 1 - Short,8776,Unsubscribe,https://example.com/learn,17/07/2024 09:23,California,Male,High
+Banner 2 - Long,4378,Sign Up,https://example.com/hide_banner_add,06/07/2024 10:37,Illinois,Undisclosed,Low
+Banner 1 - Short,9869,Learn More,https://example.com/signup,10/07/2024 01:40,California,Female,Low
+Banner 2 - Long,2182,Learn More,https://example.com/learn,11/07/2024 19:10,Florida,Female,High
+Banner 1 - Short,5906,Sign Up,https://example.com/signup,01/07/2024 01:02,Illinois,Female,High
+Banner 1 - Short,7477,Learn More,https://example.com/signup,22/07/2024 08:23,Illinois,Undisclosed,High
+Banner 1 - Short,9408,Sign Up,https://example.com/signup,09/07/2024 10:50,Illinois,Male,Middle
+Banner 1 - Short,1705,Unsubscribe,https://example.com/hide_banner_add,22/07/2024 06:19,Texas,Undisclosed,Low
+Banner 1 - Short,2979,Unsubscribe,https://example.com/signup,15/07/2024 02:56,Illinois,Female,Low
+Banner 1 - Short,1610,Unsubscribe,https://example.com/signup,12/07/2024 14:45,Florida,Male,Low
+Banner 1 - Short,7719,Learn More,https://example.com/learn,31/07/2024 06:38,New York,Male,Low
+Banner 1 - Short,3273,Unsubscribe,https://example.com/learn,31/07/2024 19:32,Illinois,Male,High
+Banner 1 - Short,7749,Sign Up,https://example.com/learn,10/07/2024 18:31,Texas,Female,High
+Banner 1 - Short,6334,Sign Up,https://example.com/hide_banner_add,12/07/2024 13:35,Texas,Undisclosed,Low
+Banner 2 - Long,2970,Sign Up,https://example.com/signup,16/07/2024 16:13,Florida,Male,Low
+Banner 1 - Short,1867,Sign Up,https://example.com/hide_banner_add,08/07/2024 23:21,Illinois,Undisclosed,Low
+Banner 1 - Short,4155,Sign Up,https://example.com/learn,20/07/2024 09:51,Florida,Female,High
+Banner 2 - Long,1836,Unsubscribe,https://example.com/learn,10/07/2024 21:50,California,Undisclosed,Low
+Banner 2 - Long,3759,Learn More,https://example.com/learn,01/07/2024 20:34,Illinois,Male,Low
+Banner 1 - Short,1672,Unsubscribe,https://example.com/signup,30/07/2024 10:08,Texas,Male,High
+Banner 1 - Short,5394,Unsubscribe,https://example.com/learn,01/07/2024 21:10,Illinois,Female,High
+Banner 1 - Short,3751,Sign Up,https://example.com/learn,04/07/2024 20:09,Texas,Female,Middle
+Banner 1 - Short,2690,Learn More,https://example.com/learn,18/07/2024 08:16,New York,Undisclosed,Middle
+Banner 1 - Short,2601,Sign Up,https://example.com/hide_banner_add,01/07/2024 20:16,New York,Female,High
+Banner 1 - Short,6030,Sign Up,https://example.com/hide_banner_add,20/07/2024 14:10,Illinois,Female,Middle
+Banner 1 - Short,9498,Unsubscribe,https://example.com/signup,06/07/2024 10:09,New York,Undisclosed,Low
+Banner 1 - Short,9333,Sign Up,https://example.com/signup,01/07/2024 18:53,New York,Female,Low
+Banner 1 - Short,5650,Sign Up,https://example.com/hide_banner_add,13/07/2024 04:34,New York,Male,Middle
+Banner 1 - Short,2395,Sign Up,https://example.com/signup,12/07/2024 09:45,Florida,Male,High
+Banner 2 - Long,6768,Learn More,https://example.com/signup,08/07/2024 06:16,Florida,Undisclosed,Middle
+Banner 1 - Short,5296,Learn More,https://example.com/hide_banner_add,02/07/2024 21:47,Florida,Female,High
+Banner 1 - Short,8999,Unsubscribe,https://example.com/signup,22/07/2024 04:49,Texas,Male,High
+Banner 1 - Short,7779,Unsubscribe,https://example.com/learn,16/07/2024 19:07,New York,Female,High
+Banner 2 - Long,1928,Unsubscribe,https://example.com/learn,07/07/2024 11:41,California,Female,High
+Banner 1 - Short,7613,Unsubscribe,https://example.com/hide_banner_add,19/07/2024 07:35,Illinois,Female,Low
+Banner 1 - Short,8015,Unsubscribe,https://example.com/learn,23/07/2024 08:04,Texas,Male,Low
+Banner 1 - Short,2609,Sign Up,https://example.com/learn,14/07/2024 08:00,California,Female,Middle
+Banner 1 - Short,1752,Unsubscribe,https://example.com/signup,09/07/2024 14:44,Florida,Male,Low
+Banner 1 - Short,4134,Unsubscribe,https://example.com/signup,21/07/2024 13:32,New York,Female,High
+Banner 1 - Short,6499,Learn More,https://example.com/signup,19/07/2024 14:18,Texas,Female,Low
+Banner 1 - Short,8792,Learn More,https://example.com/hide_banner_add,02/07/2024 01:32,Texas,Female,High
+Banner 1 - Short,9291,Unsubscribe,https://example.com/hide_banner_add,23/07/2024 19:52,California,Female,Low
+Banner 1 - Short,5191,Learn More,https://example.com/learn,22/07/2024 09:01,Illinois,Female,Middle
+Banner 1 - Short,3093,Unsubscribe,https://example.com/learn,17/07/2024 16:43,Florida,Female,Low
+Banner 2 - Long,2257,Learn More,https://example.com/learn,09/07/2024 04:23,Florida,Female,High
+Banner 1 - Short,9304,Sign Up,https://example.com/learn,07/07/2024 08:21,Texas,Female,Middle
+Banner 1 - Short,8367,Sign Up,https://example.com/hide_banner_add,29/07/2024 12:25,Texas,Undisclosed,Middle
+Banner 1 - Short,4613,Unsubscribe,https://example.com/signup,25/07/2024 05:22,Illinois,Undisclosed,Middle
+Banner 1 - Short,5079,Unsubscribe,https://example.com/learn,12/07/2024 04:02,California,Undisclosed,Low
+Banner 1 - Short,3887,Learn More,https://example.com/signup,10/07/2024 10:14,Illinois,Undisclosed,Low
+Banner 2 - Long,4219,Unsubscribe,https://example.com/signup,14/07/2024 11:41,Florida,Female,Middle
+Banner 1 - Short,4986,Unsubscribe,https://example.com/learn,25/07/2024 14:00,California,Undisclosed,Middle
+Banner 1 - Short,6660,Learn More,https://example.com/learn,17/07/2024 02:42,California,Undisclosed,High
+Banner 1 - Short,8132,Learn More,https://example.com/signup,28/07/2024 15:28,California,Female,High
+Banner 2 - Long,8869,Sign Up,https://example.com/hide_banner_add,19/07/2024 14:50,Illinois,Male,Low
+Banner 1 - Short,8296,Unsubscribe,https://example.com/signup,15/07/2024 06:16,Florida,Undisclosed,Middle
+Banner 1 - Short,6386,Sign Up,https://example.com/learn,19/07/2024 01:14,California,Undisclosed,Middle
+Banner 2 - Long,7080,Learn More,https://example.com/learn,22/07/2024 17:00,Illinois,Male,Low
+Banner 1 - Short,6982,Learn More,https://example.com/hide_banner_add,22/07/2024 22:26,California,Male,Low
+Banner 2 - Long,5386,Sign Up,https://example.com/learn,23/07/2024 17:08,Texas,Undisclosed,Low
+Banner 1 - Short,3414,Learn More,https://example.com/signup,28/07/2024 04:00,Illinois,Male,Low
+Banner 1 - Short,2661,Unsubscribe,https://example.com/hide_banner_add,18/07/2024 22:15,California,Female,Middle
+Banner 1 - Short,3323,Sign Up,https://example.com/learn,12/07/2024 22:44,Texas,Male,Low
+Banner 1 - Short,8599,Learn More,https://example.com/signup,18/07/2024 23:36,Illinois,Male,Low
+Banner 1 - Short,1840,Sign Up,https://example.com/hide_banner_add,01/07/2024 04:40,Texas,Male,High
+Banner 1 - Short,4584,Sign Up,https://example.com/learn,31/07/2024 21:12,Illinois,Female,Low
+Banner 1 - Short,4973,Unsubscribe,https://example.com/learn,17/07/2024 13:53,Texas,Female,Low
+Banner 1 - Short,8286,Learn More,https://example.com/signup,24/07/2024 04:15,Texas,Undisclosed,High
+Banner 1 - Short,5605,Unsubscribe,https://example.com/learn,29/07/2024 01:35,Illinois,Female,High
+Banner 1 - Short,1254,Unsubscribe,https://example.com/learn,19/07/2024 08:37,New York,Undisclosed,Middle
+Banner 2 - Long,1948,Learn More,https://example.com/learn,25/07/2024 10:04,Texas,Male,Middle
+Banner 2 - Long,9459,Unsubscribe,https://example.com/signup,10/07/2024 23:26,Florida,Undisclosed,Middle
+Banner 1 - Short,1820,Learn More,https://example.com/learn,28/07/2024 14:20,New York,Undisclosed,Low
+Banner 1 - Short,2835,Learn More,https://example.com/learn,01/07/2024 20:57,Florida,Undisclosed,Middle
+Banner 2 - Long,3492,Unsubscribe,https://example.com/signup,01/07/2024 04:53,New York,Female,High
+Banner 1 - Short,4751,Unsubscribe,https://example.com/signup,03/07/2024 07:50,Texas,Undisclosed,Low
+Banner 2 - Long,4660,Unsubscribe,https://example.com/hide_banner_add,23/07/2024 22:19,California,Female,High
+Banner 1 - Short,7099,Sign Up,https://example.com/signup,26/07/2024 16:50,Texas,Female,Low
+Banner 1 - Short,7186,Unsubscribe,https://example.com/signup,09/07/2024 00:25,Illinois,Male,Middle
+Banner 1 - Short,4856,Unsubscribe,https://example.com/hide_banner_add,08/07/2024 19:12,Florida,Undisclosed,Middle
+Banner 1 - Short,3819,Unsubscribe,https://example.com/signup,09/07/2024 14:54,New York,Female,Low
+Banner 1 - Short,9307,Unsubscribe,https://example.com/hide_banner_add,02/07/2024 17:23,California,Undisclosed,Low
+Banner 2 - Long,4184,Learn More,https://example.com/hide_banner_add,15/07/2024 00:37,Illinois,Female,High
+Banner 1 - Short,8396,Sign Up,https://example.com/hide_banner_add,04/07/2024 09:13,New York,Male,Middle
+Banner 1 - Short,6924,Learn More,https://example.com/signup,21/07/2024 17:09,Texas,Female,High
+Banner 2 - Long,6230,Learn More,https://example.com/learn,26/07/2024 17:57,New York,Male,Middle
+Banner 1 - Short,1538,Unsubscribe,https://example.com/signup,01/07/2024 15:39,California,Undisclosed,Low
+Banner 2 - Long,9963,Sign Up,https://example.com/signup,19/07/2024 06:11,Illinois,Female,Middle
+Banner 1 - Short,1346,Learn More,https://example.com/learn,17/07/2024 06:59,Illinois,Male,High
+Banner 2 - Long,6215,Learn More,https://example.com/hide_banner_add,04/07/2024 00:13,Florida,Female,Middle
+Banner 1 - Short,5605,Sign Up,https://example.com/signup,27/07/2024 15:56,Florida,Male,Low
+Banner 1 - Short,4635,Sign Up,https://example.com/hide_banner_add,15/07/2024 15:04,Florida,Male,Low
